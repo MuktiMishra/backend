@@ -1,4 +1,4 @@
-echo "# Social Media App - Backend
+# Social Media App - Backend
 
 This repository contains the backend code for the Social Media App built using the MERN stack. It provides RESTful API endpoints for user authentication, profile management, post creation, and more.
 
@@ -21,11 +21,11 @@ This repository contains the backend code for the Social Media App built using t
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/yourusername/social-media-app-backend.git
+   git clone https://github.com/MuktiMishra/backend.git
    \`\`\`
 2. Navigate to the project directory:
    \`\`\`bash
-   cd social-media-app-backend
+   cd backend
    \`\`\`
 3. Install dependencies:
    \`\`\`bash
